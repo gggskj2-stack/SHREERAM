@@ -1,0 +1,2 @@
+Python Basics|Introduction to Python programming|video|/path/to/python_basics.mp4
+Data Science Lecture|Notes on data analysis|lecture|/path/to/data_science.pdf
